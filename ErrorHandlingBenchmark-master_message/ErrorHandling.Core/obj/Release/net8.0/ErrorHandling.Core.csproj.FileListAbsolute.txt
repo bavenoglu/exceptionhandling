@@ -1,0 +1,11 @@
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/bin/Release/net8.0/ErrorHandling.Core.deps.json
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/bin/Release/net8.0/ErrorHandling.Core.dll
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/bin/Release/net8.0/ErrorHandling.Core.pdb
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/ErrorHandling.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/ErrorHandling.Core.AssemblyInfoInputs.cache
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/ErrorHandling.Core.AssemblyInfo.cs
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/ErrorHandling.Core.csproj.CoreCompileInputs.cache
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/ErrorHandling.Core.dll
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/refint/ErrorHandling.Core.dll
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/ErrorHandling.Core.pdb
+/Users/bavenoglu/ws/ErrorHandlingBenchmark-master/ErrorHandling.Core/obj/Release/net8.0/ref/ErrorHandling.Core.dll
